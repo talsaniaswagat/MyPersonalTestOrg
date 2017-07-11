@@ -1,0 +1,17 @@
+{
+    "projectName": "MyPersonalTestOrg",
+    "username": "talsaniaswagat@testorg.com",
+    "id": "73aca790-65f4-11e7-8153-d7e44f9ce0c5",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://ap5.salesforce.com",
+    "workspace": "F:\\Swagat\\Workspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
